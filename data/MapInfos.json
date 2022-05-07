@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"pasillo","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":1,"expanded":true,"name":"pasillo","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":false,"name":"comedor","order":2,"parentId":1,"scrollX":0,"scrollY":0},
-{"id":3,"expanded":false,"name":"sala","order":3,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":false,"name":"sala","order":3,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"baño","order":4,"parentId":1,"scrollX":0,"scrollY":0},
-{"id":5,"expanded":false,"name":"cocina","order":5,"parentId":1,"scrollX":459,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"cocina","order":5,"parentId":1,"scrollX":818,"scrollY":456.5},
 {"id":6,"expanded":false,"name":"estudio","order":6,"parentId":1,"scrollX":459,"scrollY":312.5}
 ]
