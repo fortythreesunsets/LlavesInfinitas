@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":124,"indent":0,"parameters":[0,1]},{"code":124,"indent":0,"parameters":[0,300]},{"code":0,"indent":0,"parameters":[]}],"name":"Timer","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":111,"indent":0,"parameters":[0,3,0]},{"code":121,"indent":1,"parameters":[2,2,0]},{"code":124,"indent":1,"parameters":[0,10]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"luzLinterna","switchId":3,"trigger":2},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":3,"list":[{"code":122,"indent":0,"parameters":[4,4,0,3,5,-1,0]},{"code":122,"indent":0,"parameters":[5,5,0,3,5,-1,1]},{"code":285,"indent":0,"parameters":[6,6,1,4,5]},{"code":0,"indent":0,"parameters":[]}],"name":"Detectar región","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":111,"indent":0,"parameters":[1,6,0,0,0]},{"code":111,"indent":1,"parameters":[12,"$gamePlayer.isMoving()"]},{"code":122,"indent":2,"parameters":[7,7,0,2,1,2]},{"code":111,"indent":2,"parameters":[1,7,0,1,0]},{"code":250,"indent":3,"parameters":[{"name":"Pasito","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":250,"indent":3,"parameters":[{"name":"Pasito","volume":90,"pitch":90,"pan":0}]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":230,"indent":1,"parameters":[16]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Sonido de pasos","switchId":10,"trigger":2}
 ]
