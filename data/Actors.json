@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"hermanas","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helena","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"hermanas","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mika","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":2,"characterName":"hermanas","classId":3,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sofía","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"hermanas","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helena","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"hermanas","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mika","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"hermanas","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sofía","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
